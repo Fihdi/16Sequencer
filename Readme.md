@@ -1,5 +1,7 @@
 # 34hp 16 Step Sequencer
 
+![](https://raw.githubusercontent.com/Fihdi/16Sequencer/refs/heads/main/16-Sequencer.jpeg)
+
 A 16-Step sequencer with individual CV knobs and 4 programmable gate outputs, including a probability gate output. Input gates can control the Clock, Reset, Direction and Pause/Play.
 
 To program a gate channel, hold down the channel button (A through D) and select or deselect the steps are active. 
